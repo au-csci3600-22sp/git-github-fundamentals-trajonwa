@@ -1,4 +1,8 @@
 Git's pretty dope.
+I've had a good amount of experience with it so far. 
+I mainly use the command line, so doing git stuff using the VS Code GUI is new to me.
+I like it though. But unfortunately, I'm married to the command line method! Can't cheat on my lover.
+
 Also, if you're actually reading this, I recommend these songs (I got bored):
 
 Swing, Swing - The All-American Rejects [Pop Punk]
